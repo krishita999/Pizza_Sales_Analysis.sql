@@ -1,4 +1,4 @@
-# Pizza_Sales_Queries.sql
+# Pizza_Sales_Analysis.sql
 
 🍕 Pizza Sales Analysis Dashboard
 
